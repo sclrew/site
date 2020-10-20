@@ -1,0 +1,45 @@
+#a{
+    height: 250px;
+    background-color: blueviolet;
+    display: flex;
+}
+#b1{
+    flex-grow: 1;
+    background-color: crimson;
+}
+#b2{
+    flex-grow: 1;
+    background-color: lightgoldenrodyellow;
+}
+#b3{
+    flex-grow: 1;
+    background-color: lightgreen;
+}
+#b4{
+    flex-grow: 3;
+    background-color: limegreen;
+}
+
+#c{
+    height: 600px;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;  
+    border: 1px solid gray;
+    margin-top: 10vh;  
+}
+#e1{
+    flex-grow: 1;
+    background-color: linen;
+}
+#e2{
+    flex-grow: 1;
+    background-color: blue;
+}
+#e3{
+    flex-grow: 1;
+    background-color: firebrick;
+}
+
+
+
